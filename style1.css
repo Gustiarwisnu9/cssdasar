@@ -1,0 +1,15 @@
+h1 {
+    color : cyan;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-style: italic;
+}
+p {
+    background: transparent;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-size: 20px;
+    font-weight: bolder;
+    line-height:30px;
+}

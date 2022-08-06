@@ -1,0 +1,16 @@
+/* belajar mengenai text styling*/
+
+h1 {
+    font-size: 150px;
+    color: rgb(30, 0, 255);
+    text-transform: uppercase;
+}
+p {
+    color: rgb(30, 0, 255); 
+    font-family: sans-serif;
+    background-color: aquamarine;
+    text-indent: 100px;
+    text-transform: capitalize;
+    word-spacing: 10px;
+}
+a { text-decoration: none;}
